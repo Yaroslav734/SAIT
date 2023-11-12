@@ -1,0 +1,1084 @@
+body {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.container {
+    margin: 0px 166px;
+    margin: 0 auto;
+
+}
+
+.header {
+    background: #1C121F;
+    flex-shrink: 0;
+    margin: auto;
+    width: 1901px;
+    height: 1033px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width:500px) {}
+
+.header-line {
+    justify-content: space-around;
+    padding-top: 37px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.nav-item {
+    color: #FFCE4E;
+    text-decoration: none;
+    font-weight: 69px;
+    font-size: 18px;
+    margin-right: 25px;
+    transition: color 0.3s linear;
+
+}
+
+.nav-item:hover {
+    color: aliceblue;
+}
+
+.button {
+    background-color: #FFCE4E;
+    text-decoration: none;
+    padding: 7px 9px;
+    font-weight: 195px;
+
+}
+
+.button:hover {
+    background-color: aliceblue;
+    transition: color 0.3s linear;
+
+}
+
+.header-down {
+    position: relative;
+    width: 720px;
+    height: 390px;
+    margin: 0 auto;
+}
+
+.header-title {
+    color: #FFCE42;
+    font-family: 'Oxanium', cursive;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 85px;
+    font-weight: 300;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    margin-top: 150px;
+}
+
+.header-subtitle {}
+
+/* .but2 {
+    background-color: #FFCE42;
+   color: white;
+   text-decoration: none;
+   width: 257px;
+   height: 84px;
+   text-align: center;
+   vertical-align: center;
+   
+} */
+.button__but {
+    background-color: #FFCE42;
+    color: white;
+    text-decoration: none;
+    width: 257px;
+    height: 84px;
+    margin: 0 auto;
+
+
+}
+
+.styled:hover {
+    background-color: rgb(245, 245, 245);
+}
+
+.styled:active {
+    box-shadow:
+        inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+        inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.button__but2 {
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    width: 257px;
+    height: 84px;
+    border-color: #FFCE42;
+    margin: 0px 35px;
+
+
+}
+
+.header__suptitle {
+    width: 147px;
+    height: 78px;
+    font-family: Oxanium;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 78px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+
+
+}
+
+.header__suptitle2 {
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+
+}
+
+.header__suptitle3 {
+    width: 147px;
+    height: 78px;
+    left: 250px;
+    font-family: Oxanium;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 78px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.header__suptitle4 {
+    width: 104px;
+    height: 35px;
+    top: 79px;
+    left: 272px;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.header__suptitle5 {
+    width: 147px;
+    height: 78px;
+    top: 1px;
+    left: 501px;
+    font-family: Oxanium;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 78px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.header__suptitle6 {
+    width: 101px;
+    height: 35px;
+    top: 81px;
+    left: 524px;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.digit {
+    display: flex;
+    justify-content: space-between;
+    width: 648px;
+    height: 116px;
+    margin-left: 132px;
+    margin: 0 auto;
+
+}
+
+.size62 {
+    width: 147px;
+    height: 78px;
+    flex-shrink: 0;
+    color: #F5FBF2;
+    font-family: Oxanium;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.size24 {
+    color: #9B9E9A;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35.452px;
+}
+
+.size34 {
+    width: 147px;
+    height: 78px;
+    flex-shrink: 0;
+    color: #F5FBF2;
+    font-family: Oxanium;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.size78 {
+    width: 104px;
+    height: 35px;
+    flex-shrink: 0;
+    color: #9B9E9A;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35.452px;
+}
+
+.size2 {
+    width: 147px;
+    height: 78px;
+    flex-shrink: 0;
+    color: #F5FBF2;
+    font-family: Oxanium;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.size3 {
+    width: 101px;
+    height: 35px;
+    flex-shrink: 0;
+    color: #9B9E9A;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35.452px;
+
+}
+
+.hs {
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+    width: 1235.662px;
+    height: 41px;
+    padding-right: 0px;
+    justify-content: center;
+    align-items: center;
+    gap: 132px;
+    flex-shrink: 0;
+
+
+
+}
+
+.coinbase {
+    width: 149px;
+    height: 33px;
+    flex-shrink: 0;
+
+}
+
+
+
+.Elipse {
+    width: 449px;
+    height: 130px;
+    flex-shrink: 0;
+}
+
+.live {
+    width: 449px;
+    height: 130px;
+    flex-shrink: 0;
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+    display: flex;
+}
+
+.t_live {
+    color: #F5FBF2;
+
+    /* Display Text/Header Big */
+    font-family: Oxanium;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130px;
+    /* 203.125% */
+
+}
+
+.left {
+    width: 54px;
+    height: 54px;
+    transform: rotate(90deg);
+    flex-shrink: 0;
+    opacity: 0.25;
+}
+
+.right {
+    width: 54px;
+    height: 54px;
+
+    flex-shrink: 0;
+}
+
+.LAvel_2 {
+    background: linear-gradient(337deg, #251928 16.25%, rgba(37, 25, 40, 0.00) 91.6%);
+}
+
+.strelka {
+    width: 156px;
+    height: 156px;
+    flex-shrink: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.Brendi {
+    display: flex;
+    width: 1235.662px;
+    height: 41px;
+    padding-right: 0px;
+    justify-content: center;
+    align-items: center;
+    gap: 132px;
+    flex-shrink: 0;
+    left: 100xp;
+    margin: 0 auto;
+}
+
+.Coinbase {
+    width: 149px;
+    height: 33px;
+    flex-shrink: 0;
+}
+
+
+
+.level_2 {
+    width: 1901px;
+    height: 1233px;
+    flex-shrink: 0;
+    background: linear-gradient(337deg, #251928 16.25%, rgba(37, 25, 40, 0.00) 91.6%);
+    margin: 0 auto;
+}
+
+.Logo_2 {
+    width: 549px;
+    height: 200px;
+    flex-shrink: 0;
+    margin: auto
+}
+
+.Elipse {
+    width: 110px;
+    height: 110px;
+    flex-shrink: 0;
+    fill: #8613A5;
+}
+
+.Live_Auction {
+
+    color: #F5FBF2;
+
+    /* Display Text/Header Big */
+    font-family: Oxanium;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130px;
+    /* 203.125% */
+
+}
+
+.NFT_ACount {
+    width: 495px;
+    height: 691px;
+    flex-shrink: 0;
+    background: #3D2942;
+    margin-left: 5%;
+}
+
+.account {
+    float: left;
+    width: 431px;
+    height: 62px;
+    flex-shrink: 0;
+    margin-left: 50px;
+    display: flex;
+
+
+}
+
+.account22 {
+    float: left;
+    width: 431px;
+    height: 62px;
+    flex-shrink: 0;
+    margin-left: 50px;
+    display: flex;
+    margin-top: 95px;
+}
+
+.lico {
+    width: 431px;
+    height: 359px;
+    flex-shrink: 0;
+    padding: 5% 5%;
+}
+
+.Virtual_Art {
+    width: 146px;
+    height: 31px;
+    top: 419px;
+    left: 102px;
+    font-family: Work Sans;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+}
+
+.by_wzard {
+    width: 110px;
+    height: 23px;
+    top: 458px;
+    left: 105px;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgb(255, 248, 238);
+
+}
+
+.Vector {
+    width: 28px;
+    height: 25.69px;
+    top: 437px;
+    left: 387px;
+    float: right;
+
+}
+
+.parta {
+    flex: 1;
+    width: 431px;
+    height: 63px;
+    /* display: flex;
+    justify-content: space-between;*/
+}
+
+.account2 {
+    height: 36px;
+    float: left;
+    width: 431px;
+    padding-top: 40px;
+    flex-shrink: 0;
+    margin-left: 50px;
+    display: flex;
+}
+
+.number_92 {
+    color: #76607A;
+    font-family: Work Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35.452px;
+    /* 110.788% */
+    float: right;
+    position: relative;
+
+}
+
+.button_place {
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+
+.button_place_a_bid {
+    width: 331px;
+    height: 78px;
+    flex-shrink: 0;
+    border: 1px solid #FDE8B3;
+    background: rgba(233, 215, 167, 0.10);
+    position: relative;
+    top: 20px;
+
+}
+
+.anya {
+    display: flex;
+    width: 1200px;
+}
+
+.button_View_all {
+    margin-top: 100px;
+    margin-left: 800px;
+}
+
+.View_All {
+    width: 257px;
+    height: 84px;
+    flex-shrink: 0;
+}
+
+.container_How_it_works {
+    width: 1901px;
+    height: 1633px;
+    background: #1C121F;
+    flex-shrink: 0;
+    margin: auto
+}
+
+.How_it_works {
+    color: #F5FBF2;
+
+    /* Display Text/Header Big */
+    font-family: Oxanium;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    margin-left: 800px;
+    line-height: 430px;
+
+    /* 203.125% */
+}
+
+.Wallet {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+}
+
+.How_it_works_header {
+    width: 1337px;
+    height: 331px;
+    flex-shrink: 0;
+}
+
+.Your_collection {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+}
+
+.Add_your_NFT {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+}
+
+.List_then {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+}
+
+.Wallet {
+    margin-right: 45px;
+}
+
+.Wallet2 {
+    margin-right: 45px;
+}
+
+.Your_collection {
+    margin-right: 45px;
+}
+
+.Wallet4 {
+    margin-right: 45px;
+}
+
+.wallet5 {
+    margin-right: 45px;
+    margin-left: 45px;
+}
+
+.Set_up_your_wallet {
+    color: var(--Primary-color, #FFCE4E);
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: 130px;
+
+
+}
+
+.Create_your_collection {
+    color: var(--Primary-color, #FFCE4E);
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: 40px;
+
+}
+
+.Walter {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+
+.Add_your_NFTs {
+    color: var(--Primary-color, #FFCE4E);
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: 150px;
+}
+
+.List_them_for_sale {
+    color: var(--Primary-color, #FFCE4E);
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: 160px;
+}
+
+.logo3 {
+    width: 593px;
+    height: 120px;
+    flex-shrink: 0;
+    color: #FFF;
+
+    /* Display Text/Header Big */
+    font-family: Oxanium;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130px;
+    /* 203.125% */
+    margin-left: auto;
+}
+
+.NFT_ACount1 {
+    width: 525px;
+    height: 432px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray -23.154px -179.711px / 107.556% 191.21% no-repeat;
+    background: #3D2942;
+    margin-left: 5%;
+}
+
+.pencil {
+    display: flex;
+    justify-content: space-between;
+}
+
+.lico2 {
+    width: 453px;
+    height: 272px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray -23.154px -179.711px / 107.556% 191.21% no-repeat;
+    margin-left: 17px;
+    margin-top: 15px;
+
+}
+
+.number_ERC {
+    color: #C2B5C6;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35.452px;
+    /* 177.26% */
+    margin-left: 55px;
+    margin-top: 100px;
+}
+
+.container_Explore_By_Categories {
+    width: 1901px;
+    height: 1633px;
+    background: #1C121F;
+    flex-shrink: 0;
+    margin: auto;
+}
+
+.Explore_By_Categories {
+    color: #F5FBF2;
+
+    /* Display Text/Header Big */
+    font-family: Oxanium;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130px;
+    /* 203.125% */
+    color: #F5FBF2;
+    margin-left: 650px;
+}
+
+.fix {
+    flex: 1;
+    width: 431px;
+    height: 63px;
+    margin-left: 120px;
+
+}
+
+.Like {
+
+    flex: 1;
+    width: 431px;
+    height: 63px;
+    margin-left: 150px;
+}
+
+.button {
+    display: none;
+    position: absolute;
+    top: 120px;
+    /* Задаем положение кнопки относительно изображения */
+    left: 50%;
+    /* Центрируем кнопку горизонтально */
+    transform: translateX(-50%);
+    /* Убираем отрицательное значение предыдущего свойства, чтобы кнопка была в центре */
+}
+
+.image:hover {
+    display: block;
+
+}
+
+.lico6 {
+    width: 431px;
+    height: 359px;
+    flex-shrink: 0;
+    padding: 5% 5%;
+    position: relative;
+}
+
+.lico6:hover {
+
+    opacity: 0.6;
+
+}
+
+.button_pictures {
+    width: 431px;
+    height: 359px;
+    flex-shrink: 0;
+    border: 1px solid #FDE8B3;
+    background: rgba(233, 215, 167, 0.10);
+    position: absolute;
+    margin-left: -457px;
+    margin-top: 26px;
+    opacity: 1;
+}
+
+.button_pictures:hover {
+    width: 431px;
+    height: 359px;
+    flex-shrink: 0;
+    border: 1px solid #FDE8B3;
+    background: rgba(233, 215, 167, 0.10);
+    position: absolute;
+    margin-left: -457px;
+    margin-top: 26px;
+    opacity: 1;
+}
+
+
+.img-responsive {
+    position: relative;
+    width: 296px;
+    height: 300px;
+
+}
+
+.range-txt {
+    position: absolute;
+    bottom: 0%;
+    left: 0;
+    width: 100%;
+    color: #000;
+    font-size: 20px;
+    padding: 10px 10px 10px 16px;
+    text-align: center;
+}
+
+.position-rage-bottom {
+    padding-bottom: 20px;
+}
+
+.button_place_dig_war {
+    opacity: 0;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 100px;
+    background: rgba(0, 0, 0, .3);
+    left: calc(50% - 100px);
+    color: #fff;
+    transition: opacity .3s;
+}
+
+.img-responsive:hover .button_place_dig_war {
+    opacity: 1;
+    transition: opacity .3s;
+}
+
+.faq {
+    padding: 5% 5%;
+}
+
+.button_place_dig_war {
+    margin-top: 80px;
+    margin-left: 71px;
+}
+
+.ebat {
+    margin-top: 32px;
+    margin-left: 750px;
+    width: 257px;
+    height: 84px;
+    flex-shrink: 0;
+    border: 1px solid var(--Primary-color, #FFCE4E);
+}
+
+.Ready_for_Next_NFT_Drop {
+    color: #F5FBF2;
+    text-align: center;
+
+    /* Display Text/Header Big */
+    font-family: Oxanium;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130px;
+    /* 203.125% */
+    width: 819px;
+    height: 97.268px;
+    flex-shrink: 0;
+    margin-left: 550px;
+}
+
+.form_sub {
+    width: 680px;
+    height: 96px;
+    flex-shrink: 0;
+    border: 1px solid #E7B226;
+    border-color: #E7B226;
+}
+
+.text_b {
+    width: 244px;
+    height: 96px;
+    flex-shrink: 0;
+    margin-top: 10px;
+    background: #E7B226;
+}
+
+.Subscribe {
+    color: #251928;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35.452px;
+    /* 147.717% */
+}
+
+.reter {
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+.Subscribe_block {
+    width: 1901px;
+    height: 750px;
+    background: #1C121F;
+    flex-shrink: 0;
+    margin: auto;
+}
+
+footer {
+    width: 1901px;
+    height: 450px;
+    background: #000000;
+    flex-shrink: 0;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+footer a {
+    color: white;
+    font-size: 30px;
+    margin-left: 18px;
+    font-family: Work Sans;
+    text-decoration: none;
+}
+
+footer nav a:hover {
+    border-bottom: 1px solid white;
+}
+
+.social {
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+
+.fot_size_logo {
+    width: 210px;
+    height: 210px;
+}
+
+@media(max-width: 500px) {
+    .level_2 {
+        width: 1901px;
+        height: 2533px;
+        flex-shrink: 0;
+        background: linear-gradient(337deg, #251928 16.25%, rgba(37, 25, 40, 0.00) 91.6%);
+
+    }
+
+    .container_How_it_works {
+        width: 1901px;
+        height: 1633px;
+        background: #1C121F;
+        flex-shrink: 0;
+        margin: auto
+    }
+
+    .NFT_ACount {
+        width: 495px;
+        height: 691px;
+        display: block;
+        margin: 0 auto;
+        background: #3D2942;
+        margin-bottom: 30px;
+
+    }
+
+    .anya {
+        display: block;
+        width: 1200px;
+        margin: 0 auto;
+    }
+
+    .container_Explore_By_Categories {
+        width: 1901px;
+        height: 2533px;
+        background: #1C121F;
+        flex-shrink: 0;
+        margin: auto;
+    }
+
+    .NFT_ACount1 {
+        width: 525px;
+        height: 432px;
+        flex-shrink: 0;
+        background: url(<path-to-image>), lightgray -23.154px -179.711px / 107.556% 191.21% no-repeat;
+        background: #3D2942;
+        margin-left: 5%;
+    }
+    .container_How_it_works {
+        width: 1901px;
+        height: 2233px;
+        background: #1C121F;
+        flex-shrink: 0;
+        margin: auto
+    }
+    
+
+    .pencil {
+        display: block;
+        width: 1200px;
+        margin: 0 auto;
+        margin-left: 635px;
+    }
+    .Brendi {
+        display: flex;
+        width: 1235.662px;
+        height: 41px;
+        padding-right: 0px;
+        justify-content: center;
+        align-items: center;
+        gap: 132px;
+        flex-shrink: 0;
+        left: 100xp;
+        margin: 0 auto;
+        margin-left: 200px;
+    }
+    
+    .button__but {
+        background-color: #FFCE42;
+        color: white;
+        text-decoration: none;
+        width: 257px;
+        height: 84px;
+        margin: 0 auto;
+        margin-left: 630px;
+    }
+    
+    
+
+
+}
